@@ -1,0 +1,74 @@
+body{
+    font-family:'Raleway', sans-serif !important;
+    font-weight: 400,500;
+    background-color: black !important;
+    color: #fff;
+}
+
+.nav-black {
+    background-color: black;
+    color: white;
+    font-size: 400;
+  }
+  
+  .dark-celu .container {
+    background-color: transparent;
+  }
+  
+  
+  @media only screen and (max-width: 991px) {
+    
+    .dark-celu {
+      background-color: black;
+    }
+  
+  }
+
+.p{
+    text-align: right;
+    color: white;
+    font-weight: 400;
+    
+    
+  
+}
+
+.h2{
+    color: white;
+    font-weight: 500;
+}
+
+
+.hr{
+    border: 1px;
+    color: gray; 
+ 
+}
+
+/* atributo font awesome*/
+.container-1{
+  
+  vertical-align: middle;
+  white-space: nowrap;
+  position: relative;
+  background-color: #0dcaf0;
+}
+
+/* Footer*/
+
+#Footer{
+  background-color: #0dcaf0;
+  
+}
+
+#Footer h2{
+  font-family:'Raleway', sans-serif !important;
+  font-weight: 400;
+}
+
+#Footer a{
+  color:white;
+  text-decoration: none;
+
+}
+
