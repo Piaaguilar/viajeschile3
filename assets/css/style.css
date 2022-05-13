@@ -1,9 +1,13 @@
+/*Body*/
+
 body{
     font-family:'Raleway', sans-serif !important;
     font-weight: 400,500;
     background-color: black !important;
     color: #fff;
 }
+
+/*Barra navegación*/
 
 .nav-black {
     background-color: black;
@@ -23,6 +27,8 @@ body{
     }
   
   }
+
+/*Generales*/
 
 .p{
     text-align: right;
@@ -45,7 +51,7 @@ body{
  
 }
 
-/* atributo font awesome*/
+/* Atributo font awesome*/
 .container-1{
   
   vertical-align: middle;
